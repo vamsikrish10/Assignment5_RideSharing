@@ -11,12 +11,11 @@ The project demonstrates the three main OOP principles:
 
 ## How to Run
 
-### C++
-```bash
+### C++ 
 cd CppImplementation
 clang++ *.cpp -o ridesystem
 ./ridesystem
 
-### Smalltalk
+### Smalltalk 
 cd SmalltalkImplementation
 gst Ride.st StandardRide.st PremiumRide.st Driver.st Rider.st main.st
